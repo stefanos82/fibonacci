@@ -1,11 +1,6 @@
 module fib;
 import std::io;
 import std::time;
-import fib::recursive;
-import fib::tailrecursive;
-import fib::iterative;
-import fib::analyticfn;
-import fib::analytic;
 
 fn void main()
 {
