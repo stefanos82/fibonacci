@@ -1,8 +1,6 @@
 # Fibonacci in C3
 
-<img width="398" height="248" alt="image" src="https://github.com/user-attachments/assets/bf4f8d13-2551-4027-90c6-08ae55848300" />
-
-
+<img width="415" height="260" alt="image" src="https://github.com/user-attachments/assets/8138e22d-f0b7-42fb-b18a-fd89cd2d43cc" />
 
 I could not do this without [Eduardo Bart](https://github.com/edubart)'s original example
 implemented in [Nelua](https://nelua.io/); thanks a million brother!
