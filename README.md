@@ -1,6 +1,7 @@
 # Fibonacci in C3
 
-![image](https://github.com/user-attachments/assets/83bb37c6-bf20-47b5-807d-ee807e988668)
+<img width="398" height="248" alt="image" src="https://github.com/user-attachments/assets/bf4f8d13-2551-4027-90c6-08ae55848300" />
+
 
 
 I could not do this without [Eduardo Bart](https://github.com/edubart)'s original example
