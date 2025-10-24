@@ -1,10 +1,10 @@
 module fib::iterative;
 
-fn int fibonacci(int n)
+fn usz fibonacci(usz n)
 {
-    int first = 0;
-    int second = 1;
-    for (int i=0; i < n; i++) {
+    usz first = 0;
+    usz second = 1;
+    for (usz i = 0; i < n; i++) {
         @swap(first, second);
         second = second + first;
     }
